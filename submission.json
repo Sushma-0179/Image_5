@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful editorial image symbolizing extreme wealth inequality: a massive, fractured concrete world structure suspended in space at an extreme tilted angle, creating a strong diagonal imbalance as if gravity is pulling everything downward. At the very top, a small glass-enclosed luxury space holds only 2–3 wealthy individuals, calm and detached, surrounded by warm golden light, greenery, and comfort. The glass floor beneath them shows visible cracks spreading outward, suggesting fragility and instability. Below, an overwhelming, chaotic mass of hundreds of people cling desperately to the steep, crumbling surface. Many are slipping, falling into darkness, or reaching upward in panic. Bodies overlap, movement is disordered, and debris continuously breaks off and falls into the void. The lower region is dark, cold, and oppressive, with fragments and dust falling downward, enhancing the sense of collapse. The upper region is bright but isolated, disconnected from the chaos below. Strong contrast between warm golden light above and deep blue-gray shadows below. Emphasize instability, imbalance, and systemic collapse. Slightly surreal, conceptual, not overly cinematic, magazine editorial style, no text, no labels, no charts.",
+  "model": "DALL·E 3",
+  "dataset_name": "World Inequality Database (WID)",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The top 1% holds disproportionately more wealth than the bottom 50%, creating extreme systemic imbalance."
+}
